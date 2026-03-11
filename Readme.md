@@ -3,8 +3,8 @@ Full-Stack-Anwendung mit NestJS Backend (Spotify BFF) + React/TypeScript Fronten
 
 
 # 1. Root-Verzeichnis erstellen .env
-echo "SPOTIFY_CLIENT_ID=deine_id" >> .env
-echo "SPOTIFY_CLIENT_SECRET=dein_secret" >> .env
+    echo "SPOTIFY_CLIENT_ID=deine_id" >> .env
+    echo "SPOTIFY_CLIENT_SECRET=dein_secret" >> .env
 
 
 # 2. NPM install in beiden Verzeichnissen 
