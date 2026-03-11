@@ -20,10 +20,8 @@ spotify-frontend -> Frontend React/Vite
 
 URLs:
 
-Frontend: http://localhost:5173
-Backend: http://localhost:3000
+Frontend: http://localhost:5173 <br>    
+Backend: http://localhost:3000  <br>
 
-Frontend (React/TS) ──POST/GET──> Backend (NestJS BFF) ──Spotify Web API
-      ↓                                       ↓
-[Debounce + UI]                   [Proxy + Cache + CSV-Export]
+Frontend (React/TS) ──POST/GET──> Backend (NestJS BFF) ──> Spotify Web API
 
